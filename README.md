@@ -1,3 +1,4 @@
+![logo](https://github.com/usmandastgir140/usmandastgir140/blob/main/M.%20Usman%20Dastgir.png)
 <h1 align="center">Hi 👋, I'm Muhammad Usman Dastgir</h1>
 <h3 align="center">A passionate programmer from Pakistan</h3>
 
